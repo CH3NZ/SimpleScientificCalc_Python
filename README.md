@@ -17,4 +17,11 @@ Select operation.
 
 6.Exit
 
-2.0 + 3.0 = 5.0
+Enter choice(1/2/3/4/5/6): 1
+
+
+Enter first number: 1
+
+Enter second number: 1
+
+1.0 + 1.0 = 2.0
